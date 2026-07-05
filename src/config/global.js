@@ -1,17 +1,14 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Tendencias de moda y eventos',
+    Description:
+      'El componente formativo desarrolla la comprensión de las tendencias de moda, los universos de vestuario, las ocasiones de uso, el observatorio de tendencias y los eventos de moda como elementos estratégicos del sistema moda. A partir de estos contenidos, el aprendiz interpreta la relación entre consumo, producto, comunicación, visualización comercial, líneas de mercado y <em>marketing</em> digital para apoyar decisiones de diseño, presentación y posicionamiento de productos de moda.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
     ],
   },
@@ -31,13 +28,38 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Tendencias de moda y consumo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Teorías de difusión de tendencias',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Clasificación de las tendencias',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Observatorio de tendencias',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Difusores de tendencias',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Universos de vestuario',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Ocasiones de uso',
+            hash: 't_1_6',
           },
         ],
       },
@@ -45,26 +67,40 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Eventos de moda',
         desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Tema 3',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema4',
-        numero: '4',
-        titulo: 'Tema 4',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema5',
-        numero: '5',
-        titulo: 'Tema 5',
-        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Historia y función de los eventos de moda',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Tipos de eventos de moda',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Eventos físicos, digitales e híbridos',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Producción de eventos de moda',
+            hash: 't_2_4',
+          },
+          {
+            numero: '2.5',
+            titulo: 'Visualización de productos según líneas de mercado',
+            hash: 't_2_5',
+          },
+          {
+            numero: '2.6',
+            titulo: 'Evaluación del evento desde <em>marketing</em> digital',
+            hash: 't_2_6',
+          },
+        ],
       },
     ],
     subMenu: [
