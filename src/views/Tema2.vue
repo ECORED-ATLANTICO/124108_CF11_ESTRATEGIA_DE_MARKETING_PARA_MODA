@@ -31,7 +31,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Historia y función de los eventos de moda
     
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+    .row.justify-content-center.align-items-center.mb-6
       .col-sm-10.col-lg-5
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/3.png", alt="" data-aos="zoom-in-down")
@@ -91,7 +91,7 @@
               figure
                 img(src='@/assets/curso/tema2/9.png', alt='')
 
-    .p-4.bg-acento-contenido-a5.rounded-4.z-2.mb-4
+    .p-4.bg-acento-contenido-a5.rounded-4.z-2.mb-5
       p.mb-0 Los eventos de moda desempeñan un papel fundamental en el sistema moda, ya que constituyen espacios para la promoción, comunicación, relacionamiento y comercialización de productos, marcas y colecciones. A través de pasarelas, ferias, ruedas de negocios, lanzamientos y encuentros especializados, facilitan la difusión de tendencias, la presentación de propuestas creativas y la generación de oportunidades comerciales. Además, fortalecen la conexión entre diseñadores, empresas, compradores, medios de comunicación y consumidores, contribuyendo al posicionamiento de marcas y al desarrollo competitivo del sector.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -109,39 +109,38 @@
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Visualización de producto
-                p Presentar prendas, accesorios o colecciones de manera organizada y coherente con la marca. 
+                p.mb-0 Presentar prendas, accesorios o colecciones de manera organizada y coherente con la marca. 
                 p #[strong Ejemplo de aplicación]: desfile de colección cápsula, showroom de compradores o presentación de temporada.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Comunicación de marca
-                p Transmitir identidad, valores, narrativa, estilo y posicionamiento.
+                p.mb-0 Transmitir identidad, valores, narrativa, estilo y posicionamiento.
                 p #[strong Ejemplo de aplicación]: evento sostenible con mensajes de trazabilidad, producción local y consumo responsable.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Activación comercial
-                p Estimular ventas, reservas, preventas, contactos o negociaciones.
+                p.mb-0 Estimular ventas, reservas, preventas, contactos o negociaciones.
                 p #[strong Ejemplo de aplicación]: lanzamiento con catálogo digital, códigos de compra y atención a compradores mayoristas.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Relacionamiento
-                p Conectar marca con medios, aliados, influenciadores, clientes, proveedores o comunidades.
+                p.mb-0 Conectar marca con medios, aliados, influenciadores, clientes, proveedores o comunidades.
                 p #[strong Ejemplo de aplicación]: encuentro con prensa, bloggers, estilistas y líderes de opinión.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Generación de contenido
-                p Producir fotografías, videos, reels, transmisiones, notas de prensa y material de campaña.
+                p.mb-0 Producir fotografías, videos, reels, transmisiones, notas de prensa y material de campaña.
                 p #[strong Ejemplo de aplicación]: cobertura de pasarela, backstage, entrevistas y piezas para redes sociales.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Validación de mercado
-                p Recoger reacciones, comentarios, pedidos, interacción y comportamiento de los asistentes.
+                p.mb-0 Recoger reacciones, comentarios, pedidos, interacción y comportamiento de los asistentes.
                 p #[strong Ejemplo de aplicación]: encuestas rápidas, métricas de interacción, pedidos de showroom o análisis de conversiones.
 
     .p-4.py-4.py-lg-0.bg-secundario-s5.rounded-4.z-2
       .row.align-items-center.z-2.justify-content-center
         .col-lg-10
-          h5.mb-4 Utilidad de las teorías de difusión
-          p.mb-4.mb-lg-0 Las teorías de difusión no buscan afirmar que todas las tendencias se comportan igual. Su función es ofrecer criterios para interpretar el movimiento de la moda: quién inicia, quién valida, quién adopta, qué canal acelera la circulación y en qué momento la tendencia puede convertirse en producto comercial.
+          p.mb-4.mb-lg-0 La relación entre tipo de evento, producto y mercado permite comprender cómo las diferentes actividades del sistema moda se orientan a objetivos específicos de promoción, posicionamiento y comercialización. Eventos como pasarelas, ferias, ruedas de negocios y lanzamientos facilitan la conexión entre los productos y sus públicos objetivo, favoreciendo la visibilidad de las marcas y la generación de oportunidades comerciales. Analizar esta relación permite seleccionar los escenarios más adecuados para presentar productos, fortalecer estrategias de comunicación y responder de manera efectiva a las necesidades del mercado.
         .col-6.col-sm-4.col-lg-2
           figure
             img(src="@/assets/curso/tema2/11.png", alt="" data-aos="zoom-in-down")
@@ -551,21 +550,21 @@
                 td Ajuste, movilidad, largos, cierres, comodidad, correspondencia entre modelo y producto
                 td Problemas de caída, incomodidad, fallas de cierre o lectura incorrecta de silueta
               tr
-                td Iluminación
-                td Intensidad, ángulo, temperatura, distribución, sincronización y cobertura
-                td Insuficiente iluminación, sombras, deslumbramiento o desproporción de brillo
+                td #[em Styling]
+                td Coherencia entre concepto, prendas, accesorios, maquillaje, peinado y calzado
+                td Desarticulación visual o pérdida del mensaje de marca
               tr(style="background-color: #EAECEE")
-                td Sonido
-                td Volumen, claridad, sincronización, ambiente y cobertura
-                td Ruido, distorsión, desadaptación o interrupciones de audio
+                td Espacio
+                td Iluminación, circulación, señalización, sonido, montaje, accesos y seguridad
+                td Baja visibilidad, desorden, retrasos o afectación de la experiencia
               tr
-                td Montaje
-                td Estructura, soportes, durabilidad, estabilidad y alineación
-                td Desequilibrio, caídas, inestabilidad o falta de soporte
+                td Comunicación
+                td Invitación, piezas gráficas, guion, #[em hashtags], contenidos previos y cobertura
+                td Baja asistencia, poca recordación, débil alcance digital o mensaje confuso
               tr(style="background-color: #EAECEE")
-                td Comunicación visual
-                td Consistencia, claridad, legibilidad y presentación
-                td Desorden, confusión o falta de información
+                td Registro audiovisual
+                td Planos, fotografías de producto, #[em backstage], entrevistas, #[em streaming] y permisos
+                td Pérdida de contenido útil para redes, prensa, catálogo o memoria de marca
                 
 
     separador

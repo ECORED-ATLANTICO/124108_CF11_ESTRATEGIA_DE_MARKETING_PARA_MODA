@@ -497,7 +497,7 @@
                 td Formal 
                 td Sastrería flexible y nuevos códigos laborales 
                 td Usar textiles con buena caída, acabados limpios, colores sobrios y siluetas adaptables 
-              tr
+              tr(style="background-color: #EAECEE")
                 td Casual 
                 td Prendas multiocasión y básicos actualizados 
                 td Diseñar referencias combinables, cómodas y de alta rotación con detalles de temporada 
@@ -505,7 +505,7 @@
                 td #[em Jeanswear] 
                 td Denim intervenido o reciclado 
                 td Definir lavados, procesos de acabado, resistencia, composición y narrativa sostenible 
-              tr
+              tr(style="background-color: #EAECEE")
                 td #[em Sportswear] 
                 td Desempeño y tecnología textil 
                 td Seleccionar materiales transpirables, costuras reforzadas, ergonomía y funcionalidad 
@@ -513,7 +513,7 @@
                 td #[em Leisurewear] 
                 td Confort extendido y estética de descanso 
                 td Priorizar tacto, amplitud, suavidad, elasticidad y comunicación de bienestar 
-              tr
+              tr(style="background-color: #EAECEE")
                 td #[em Beachwear] 
                 td Color, estampado y protección 
                 td Considerar secado rápido, ligereza, exposición solar, accesorios y uso recreativo 
@@ -550,7 +550,7 @@
                 td Protocolaria
                 td Gala y formal
                 td Seleccionar materiales de mayor calidad percibida, acabados limpios, ajuste preciso y comunicación elegante
-              tr
+              tr(style="background-color: #EAECEE")
                 td Multiocasión
                 td Casual, formal flexible y contemporáneo
                 td Diseñar prendas combinables, versátiles, de fácil mantenimiento y adaptables a diferentes momentos del día
@@ -558,7 +558,7 @@
                 td Informal
                 td #[em Kakiwear, jeanswear, sportswear, activewear y leisurewear]
                 td Priorizar comodidad, movilidad, resistencia, funcionalidad, tallaje y rotación comercial
-              tr
+              tr(style="background-color: #EAECEE")
                 td Recreativa
                 td #[em Swimwear, beachwear, sportswear y casual]
                 td Considerar clima, exposición al agua o sol, ligereza, transporte, color y accesorios
@@ -566,7 +566,7 @@
                 td Descanso
                 td #[em Sleepwear y leisurewear.]
                 td Trabajar suavidad, comodidad, amplitud, transpirabilidad y experiencia de bienestar
-              tr
+              tr(style="background-color: #EAECEE")
                 td Interior o íntima
                 td #[em Underwear y lingerie]
                 td Controlar ajuste, contacto con la piel, elasticidad, costuras, soporte y discreción
@@ -622,7 +622,7 @@
             td Leisurewear o sleepwear
             td Construir experiencia de bienestar, fotografía natural y comunicación emocional.
 
-    .p-4.bg-secundario-s10.rounded-4.z-2.mb-4
+    .p-4.bg-secundario-s5.rounded-4.z-2.mb-4
       .row.align-items-center.z-2.justify-content-center
         .col-lg-11
           p.mb-4.mb-lg-0 Las ocasiones de uso y los universos de vestuario permiten clasificar las prendas y accesorios según los contextos, actividades y necesidades de los consumidores. Su análisis facilita la comprensión de cómo los productos de moda se adaptan a diferentes estilos de vida, entornos y momentos de uso, orientando el diseño, la selección de productos y las estrategias comerciales dentro del sistema moda.

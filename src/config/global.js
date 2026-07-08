@@ -148,24 +148,138 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
-    },
-  ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Activación de marca',
+      significado:
+        'Acción comunicativa y experiencial orientada a generar recordación, interacción o respuesta comercial frente a una marca o producto.',
+    },
+    {
+      termino: 'Coolhunter',
+      significado:
+        'Persona o equipo que observa señales emergentes en la calle, medios, cultura digital y consumo para identificar posibles tendencias de moda.',
+    },
+    {
+      termino: 'Difusión de tendencias',
+      significado:
+        'Proceso mediante el cual una idea, estilo, producto o comportamiento se desplaza entre grupos sociales y mercados hasta alcanzar mayor adopción.',
+    },
+    {
+      termino: 'Evento de moda',
+      significado:
+        'Escenario presencial, digital o híbrido donde se presentan productos, colecciones o marcas con fines comunicativos, comerciales o de posicionamiento.',
+    },
+    {
+      termino: '<em>Fashion experience</em>',
+      significado:
+        'Formato de evento que integra producto, narrativa, espacio, interacción y recursos sensoriales para construir experiencia de marca.',
+    },
+    {
+      termino: 'Influenciador de moda',
+      significado:
+        'Actor digital o social que incide en la percepción y adopción de productos, estilos o marcas por parte de una comunidad específica.',
+    },
+    {
+      termino: 'Lanzamiento',
+      significado:
+        'Acción estratégica orientada a introducir un producto, colección, campaña o colaboración en el mercado con alta visibilidad.',
+    },
+    {
+      termino: 'Macrotendencia',
+      significado:
+        'Tendencia de mediano plazo que influye en diseño, consumo, comunicación y mercado durante varias temporadas.',
+    },
+    {
+      termino: 'Meta tendencia',
+      significado:
+        'Cambio estructural de largo plazo que transforma valores, comportamientos sociales, tecnologías y modelos de consumo.',
+    },
+    {
+      termino: 'Micro tendencia',
+      significado:
+        'Manifestación de corta duración asociada con detalles de producto, colores, siluetas, accesorios o estilos de rápida circulación.',
+    },
+    {
+      termino: 'Ocasión de uso',
+      significado:
+        'Contexto, actividad o situación en la que una prenda o accesorio cumple una función determinada para el usuario.',
+    },
+    {
+      termino: 'Pasarela',
+      significado:
+        'Formato de presentación de moda en el que los productos se exhiben en movimiento mediante modelos, styling y puesta en escena.',
+    },
+    {
+      termino: '<em>Pop-up store</em>',
+      significado:
+        'Punto de venta temporal utilizado para activar productos, campañas, colecciones cápsula o experiencias de marca durante un periodo definido.',
+    },
+    {
+      termino: '<em>Showroom</em>',
+      significado:
+        'Espacio de exhibición controlada dirigido a compradores, prensa, aliados o clientes seleccionados para revisar productos y gestionar relaciones comerciales.',
+    },
+    {
+      termino: 'Tendencia',
+      significado:
+        'Dirección de cambio en gustos, estilos, materiales, colores, siluetas o comportamientos de consumo que influye en el sistema moda.',
+    },
+    {
+      termino: 'Universo de vestuario',
+      significado:
+        'Categoría que agrupa prendas y complementos según función, estilo, contexto de uso y características comunes.',
+    },
+    {
+      termino: 'Visualización de producto',
+      significado:
+        'Proceso de presentar un producto de moda mediante recursos físicos, visuales, digitales o experienciales para comunicar su valor al mercado.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Codina, M. (2004). Crear moda, hacer cultura. <em>Ars Brevis</em>, (10), 43-62.',
+      link:
+        'http://www.raco.cat/index.php/arsbrevis/article/viewFile/87836/142383',
+    },
+    {
+      referencia:
+        'Emprende A Conciencia. (2021). <em>Curva de adopción de la innovación</em>.',
+      link: 'https://www.emprendeaconciencia.com/curva-adopcion-innovacion',
+    },
+    {
+      referencia:
+        'Estanyol, E. (2020). <em>Los eventos de moda en tiempos de COVID-19</em>. COMeIN, (103).',
+      link: 'https://doi.org/10.7238/c.n103.2071',
+    },
+    {
+      referencia: 'FashionLab. (2025). <em>Introducción a la moda</em> [PDF].',
+      link:
+        'https://fashionlab.education/wp-content/uploads/2025/01/Bibliografia-unidad-1-Introduccion-a-la-moda.docx_compressed_compressed-1-1.pdf',
+    },
+    {
+      referencia:
+        'Ministerio de Cultura de España. (2012). <em>Moda y diseño</em>.',
+      link:
+        'https://www.cultura.gob.es/dam/jcr%3Aa04a4e3b-a174-4b30-897a-f1f070e574ba/guialector12.pdf',
+    },
+    {
+      referencia:
+        'Niebles Cifuentes, L. (2018). <em>Moda sustentable, moda amigable: Una oportunidad de mercado</em> (Trabajo de grado de pregrado). Pontificia Universidad Javeriana.',
+      link:
+        'https://apidspace.javeriana.edu.co/server/api/core/bitstreams/b1c77dd1-0803-47cb-bfef-93997fb06ef4/content',
+    },
+    {
+      referencia:
+        'Peña, S. (2009). <em>De los textiles a las apariencias: Los tránsitos de la moda en Colombia entre 1970 y 1999</em>. Academia.edu.',
+      link:
+        'https://www.academia.edu/75326169/Ense%C3%B1ar_y_aprender_moda_y_textil_en_el_siglo_XXI',
+    },
+    {
+      referencia:
+        'Villalba, D. (2021). <em>Omnicanalidad o multicanalidad: diferencias y beneficios</em>. Pragma.',
+      link:
+        'https://www.pragma.com.co/blog/omnicanalidad-vs-multicanalidad-cual-es-la-mejor-opcion-para-mi-empresa',
     },
   ],
   creditos: [
@@ -175,7 +289,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06. Responsable del Ecosistema de Recursos Educativos Digitales',
+            'Responsable del Ecosistema de Recursos Educativos Digitales - Profesional 06',
           centro: 'Centro Agroturistico - Regional Santander',
         },
         {
@@ -204,9 +318,9 @@ export default {
           centro: 'Centro XYZ - Regional XYZ',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Nombre responsable',
