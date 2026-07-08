@@ -20,8 +20,8 @@
     .p-4.bg-acento-contenido-a5.rounded-4.z-2.mb-4
       p.mb-0 El consumo de moda se comprende a partir de la forma en que las personas eligen, adquieren, usan, combinan, conservan o descartan productos asociados al vestir. Esta decisión puede estar motivada por funcionalidad, precio, identificación simbólica, perteneEn este componente formativo los universos de vestuario y las ocasiones de uso funcionan como categorías técnicas para organizar el producto. Los universos agrupan prendas y complementos según función, estilo, contexto y características de uso; las ocasiones permiten precisar el momento, actividad o escenario en que se utiliza el producto. La relación entre tendencia, universo y ocasión favorece propuestas coherentes con el mercado y con las necesidades reales del usuario.ncia social, búsqueda de novedad, comodidad, estatus, sostenibilidad o conexión emocional con una marca. Por esta razón, el análisis de tendencias exige interpretar tanto el producto como el contexto que lo vuelve pertinente para un grupo de consumidores.
 
-    .p-4.py-4.py-lg-0.bg-secundario-s10.rounded-4.z-2
-      .row.align-items-center.mb-4.z-2.justify-content-center
+    .p-4.py-4.py-lg-0.bg-secundario-s10.rounded-4.z-2.mb-4
+      .row.align-items-center.z-2.justify-content-center
         .col-lg-10
           h5.mb-4 Tendencia, consumo y pertinencia del producto
           p.mb-4.mb-lg-0 Una tendencia adquiere valor cuando logra conectarse con un consumidor, un universo de vestuario y una ocasión de uso. Por ello, no basta con identificar que un color, material o silueta está en circulación; es necesario interpretar para qué público es pertinente, en qué contexto se usa, qué nivel de mercado atiende y cómo puede convertirse en una propuesta de producto viable.
@@ -168,7 +168,7 @@
                 td Un material tecnológico o una prenda inteligente inicia en nichos especializados y luego se incorpora a líneas comerciales.  
 
     .p-4.bg-secundario-s10.rounded-4.z-2.mb-4
-      .row.align-items-center.mb-4.z-2.justify-content-center
+      .row.align-items-center.z-2.justify-content-center
         .col-lg-10
           h5.mb-4 Utilidad de las teorías de difusión
           p.mb-4.mb-lg-0 Las teorías de difusión no buscan afirmar que todas las tendencias se comportan igual. Su función es ofrecer criterios para interpretar el movimiento de la moda: quién inicia, quién valida, quién adopta, qué canal acelera la circulación y en qué momento la tendencia puede convertirse en producto comercial.
@@ -281,7 +281,7 @@
                 img(src='@/assets/curso/tema1/32.png', alt='')
 
     .p-4.bg-secundario-s10.rounded-4.z-2.mb-4
-      .row.align-items-center.mb-4.z-2.justify-content-center
+      .row.align-items-center.z-2.justify-content-center
         .col-lg-10
           p.mb-4.mb-lg-0 Para comprender cómo se identifican y transforman las tendencias en propuestas concretas dentro del sistema moda, es importante conocer el funcionamiento del observatorio de tendencias. Este proceso permite recopilar información proveniente de diferentes fuentes, registrarla de manera organizada, analizar los patrones que se repiten y, finalmente, aplicarla al desarrollo de productos, campañas y estrategias de comunicación. La siguiente figura presenta las principales etapas que facilitan la interpretación de las tendencias y su incorporación en la toma de decisiones dentro de la industria de la moda.
         .col-sm-4.col-lg-2
@@ -378,7 +378,7 @@
           p.mb-0 Permite organizar y comprender la amplia variedad de prendas que conforman la oferta del sistema moda, de acuerdo con su función, ocasión de uso, usuario, contexto y características específicas. Esta clasificación facilita la identificación de categorías y segmentos del mercado, contribuyendo al desarrollo de productos, colecciones y estrategias comerciales acordes con las necesidades de los consumidores. Su estudio permite reconocer cómo el vestuario responde a diferentes actividades, estilos de vida y contextos socioculturales, convirtiéndose en un elemento fundamental para la planificación y comercialización de propuestas de moda.
 
     .p-4.bg-secundario-s10.rounded-4.z-2.mb-4
-      .row.align-items-center.mb-4.z-2.justify-content-center
+      .row.align-items-center.z-2.justify-content-center
         .col-lg-10
           h5.mb-4 Función de los universos de vestuario
           p.mb-4.mb-lg-0 El universo de vestuario permite ordenar la oferta de moda más allá de la prenda aislada. Su función es relacionar producto, uso, estilo, consumidor, materiales y comunicación. Por esta razón, una misma tendencia puede requerir decisiones distintas según se aplique a gala, formal, casual, #[em jeanswear, sportswear, activewear, leisurewear, beachwear, sleepwear o underwear].
@@ -623,7 +623,7 @@
             td Construir experiencia de bienestar, fotografía natural y comunicación emocional.
 
     .p-4.bg-secundario-s10.rounded-4.z-2.mb-4
-      .row.align-items-center.mb-4.z-2.justify-content-center
+      .row.align-items-center.z-2.justify-content-center
         .col-lg-11
           p.mb-4.mb-lg-0 Las ocasiones de uso y los universos de vestuario permiten clasificar las prendas y accesorios según los contextos, actividades y necesidades de los consumidores. Su análisis facilita la comprensión de cómo los productos de moda se adaptan a diferentes estilos de vida, entornos y momentos de uso, orientando el diseño, la selección de productos y las estrategias comerciales dentro del sistema moda.
         .d-none.d-lg-block.col-lg-1
@@ -640,7 +640,7 @@
         figcaption Nota. SENA, (2026).  
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
-      .col-lg-7.bg-audio.rounded-4
+      .col-lg-7.bg-audio.rounded-4.mb-4.mb-lg-0
         .row.align-items-center
           .col-sm-5
             figure.pt-3
@@ -656,34 +656,6 @@
       .col-10.col-sm-10.col-lg-5
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema1/28.png", alt="")
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </template>
 

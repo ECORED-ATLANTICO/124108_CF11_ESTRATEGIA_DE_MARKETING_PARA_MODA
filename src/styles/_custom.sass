@@ -391,6 +391,10 @@ figcaption, caption
     &--active
       opacity: 1
 
+.slider-custom-small
+  .slyder-a__bullets__item
+    margin: 0 4px
+
 .mb-6
   margin-bottom: 5rem
 
@@ -405,3 +409,12 @@ figcaption, caption
   background-repeat: no-repeat
   background-size: cover
   background-position: center
+
+ul.checklist
+  li
+    position: relative
+    &::before
+      position: absolute
+      left: -12px
+      top: -2px
+      content: url(../assets/curso/common/circle.svg)
