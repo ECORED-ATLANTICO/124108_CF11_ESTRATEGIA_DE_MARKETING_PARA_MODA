@@ -38,10 +38,11 @@ figcaption, caption
 .banner-interno__fondo
   background-image: url("../assets/curso/banner_interno.png") !important
 .banner-principal .tarjeta
-  @media screen and (max-width: $bp-max-sm)
-    background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
-  @media screen and (max-width: $bp-max-md)
+  background-image: url("../assets/curso/portada/fondo-banner-principal-xs.png") !important
+  @media screen and (min-width: $bp-min-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-sm.png") !important
+  @media screen and (min-width: $bp-min-lg)
+    background-image: url("../assets/curso/portada/fondo-banner-principal.png") !important
 
 .bg-terciario-t20
   background-color: $color-terciario-t20
@@ -361,11 +362,11 @@ figcaption, caption
   align-items: center
 .titulo-con-imagen__imagen
   position: absolute
-  left: -30px
+  left: -15px
   width: 60px
 .titulo-con-imagen__texto
   margin: 0
-  padding-left: 20px
+  padding-left: 35px
 
 .slider-wrapper
   position: relative

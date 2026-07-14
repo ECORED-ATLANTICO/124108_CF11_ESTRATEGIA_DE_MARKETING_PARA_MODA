@@ -17,10 +17,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Identificación y aplicación de una idea de negocio',
+      tema: 'Explorando tendencias y eventos en el sistema moda.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> aplicar los conceptos de estructura organizacional, procesos administrativos, viabilidad y plan de negocio para la formulación y desarrollo de una idea de negocio en un contexto real.',
+        '<b> Objetivo:</b> verificar la comprensión de los conceptos, clasificaciones, aplicaciones y procesos relacionados con las tendencias de moda, los universos de vestuario, las ocasiones de uso, los eventos de moda y la producción de eventos.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

@@ -22,7 +22,7 @@
 
     .p-4.py-4.py-lg-0.bg-secundario-s10.rounded-4.z-2.mb-4
       .row.align-items-center.z-2.justify-content-center
-        .col-lg-10
+        .col-lg-10.p-3
           h5.mb-4 Tendencia, consumo y pertinencia del producto
           p.mb-4.mb-lg-0 Una tendencia adquiere valor cuando logra conectarse con un consumidor, un universo de vestuario y una ocasión de uso. Por ello, no basta con identificar que un color, material o silueta está en circulación; es necesario interpretar para qué público es pertinente, en qué contexto se usa, qué nivel de mercado atiende y cómo puede convertirse en una propuesta de producto viable.
         .col-sm-4.col-lg-2
@@ -641,11 +641,11 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7.bg-audio.rounded-4.mb-4.mb-lg-0
-        .row.align-items-center
-          .col-sm-5
+        .row.align-items-center.justify-content-center
+          .col-8.col-sm-5
             figure.pt-3
-              img.img-415(src="@/assets/curso/common/mic.png", alt="alt")
-          .col-sm-7.col-lg-7
+              img.img-415.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
+          .col-sm-7.col-lg-7.p-3.p-xl-0
             h5 ¿Sabías qué?
             p Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-white.mb-3(

@@ -14,7 +14,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="Esquema conceptual sobre tendencias de moda y eventos. Integra contenidos relacionados con el análisis de tendencias, teorías de difusión, observatorios y difusores de tendencias, así como la clasificación de universos de vestuario y ocasiones de uso. También aborda los eventos de moda desde su evolución histórica, tipologías, formatos físicos, digitales e híbridos, procesos de producción, visualización de productos según líneas de mercado y evaluación de resultados mediante estrategias de marketing digital.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

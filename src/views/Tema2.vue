@@ -15,7 +15,7 @@
           p.mb-0 Los eventos de moda son escenarios de presentación, comunicación, comercialización y relacionamiento donde se visibilizan productos, colecciones, marcas, tendencias o campañas del sistema moda. Su función no se limita a exhibir prendas; también permite construir experiencia, generar recordación, activar intención de compra, fortalecer identidad de marca y producir contenidos para medios físicos y digitales.
 
     .p-4.bg-primario-p20.rounded-4.z-2.mb-4
-      p.mb-0 En el contexto del marketing digital para el sistema moda, un evento debe planearse como una acción estratégica. Esto implica definir objetivos, público, concepto, producto a visualizar, narrativa, recursos técnicos, canales de comunicación, indicadores de desempeño y acciones posteriores al evento. La visibilidad digital del evento amplía su alcance y permite transformar una presentación física en contenido, conversación, tráfico, ventas o reconocimiento de marca.
+      p.mb-0 En el contexto del #[em marketing] digital para el sistema moda, un evento debe planearse como una acción estratégica. Esto implica definir objetivos, público, concepto, producto a visualizar, narrativa, recursos técnicos, canales de comunicación, indicadores de desempeño y acciones posteriores al evento. La visibilidad digital del evento amplía su alcance y permite transformar una presentación física en contenido, conversación, tráfico, ventas o reconocimiento de marca.
 
     .p-4.bg-secundario-s5.rounded-4.z-2.mb-4
       .row.align-items-center.z-2.justify-content-center
@@ -47,14 +47,14 @@
             .col-lg-8
               h5.mb-0 Siglo XIX
               p Desfiles privados
-              p.mb-0 Las casas de moda presentaban sus colecciones en desfiles exclusivos dirigidos a clientes selectos y compradores.
+              p.mb-4.mb-lg-0 Las casas de moda presentaban sus colecciones en desfiles exclusivos dirigidos a clientes selectos y compradores.
             .col-sm-6.col-lg-3
               figure
                 img(src='@/assets/curso/tema2/4.png', alt='')
           .row.justify-content-center(titulo="1920–1930").pt-4
             .col-lg-8
               h5.mb-0 1920–1930
-              p.mb-0 La moda incorporó eventos más sofisticados y temáticos para exhibir nuevas tendencias a un público especializado.
+              p.mb-4.mb-lg-0 La moda incorporó eventos más sofisticados y temáticos para exhibir nuevas tendencias a un público especializado.
             .col-sm-6.col-lg-3
               figure
                 img(src='@/assets/curso/tema2/5.png', alt='')
@@ -62,7 +62,7 @@
             .col-lg-8
               h5.mb-0 1940
               p #[em Press Week]
-              p.mb-0 Se organizaron semanas dedicadas a la prensa para difundir las colecciones y fortalecer la cobertura de la industria.
+              p.mb-4.mb-lg-0 Se organizaron semanas dedicadas a la prensa para difundir las colecciones y fortalecer la cobertura de la industria.
             .col-sm-6.col-lg-3
               figure
                 img(src='@/assets/curso/tema2/6.png', alt='')
@@ -70,7 +70,7 @@
             .col-lg-8
               h5.mb-0 1970
               p Semanas de la moda
-              p.mb-0 Las Fashion Weeks se consolidaron como eventos internacionales donde diseñadores presentaban sus colecciones al público y la prensa.
+              p.mb-4.mb-lg-0 Las Fashion Weeks se consolidaron como eventos internacionales donde diseñadores presentaban sus colecciones al público y la prensa.
             .col-sm-6.col-lg-3
               figure
                 img(src='@/assets/curso/tema2/7.png', alt='')
@@ -78,7 +78,7 @@
             .col-lg-8
               h5.mb-0 2000
               p Experiencias de marca
-              p.mb-0 Los desfiles evolucionaron hacia experiencias inmersivas que fortalecían la identidad y el posicionamiento de las marcas.
+              p.mb-4.mb-lg-0 Los desfiles evolucionaron hacia experiencias inmersivas que fortalecían la identidad y el posicionamiento de las marcas.
             .col-sm-6.col-lg-3
               figure
                 img(src='@/assets/curso/tema2/8.png', alt='')
@@ -86,7 +86,7 @@
             .col-lg-8
               h5.mb-0 Actualidad
               p Eventos híbridos y #[em streaming]
-              p.mb-0 La tecnología permite transmitir los desfiles en vivo y combinar experiencias presenciales con audiencias digitales en todo el mundo.
+              p.mb-4.mb-lg-0 La tecnología permite transmitir los desfiles en vivo y combinar experiencias presenciales con audiencias digitales en todo el mundo.
             .col-sm-6.col-lg-3
               figure
                 img(src='@/assets/curso/tema2/9.png', alt='')
@@ -139,7 +139,7 @@
 
     .p-4.py-4.py-lg-0.bg-secundario-s5.rounded-4.z-2
       .row.align-items-center.z-2.justify-content-center
-        .col-lg-10
+        .col-lg-10.p-3.p-xl-0
           p.mb-4.mb-lg-0 La relación entre tipo de evento, producto y mercado permite comprender cómo las diferentes actividades del sistema moda se orientan a objetivos específicos de promoción, posicionamiento y comercialización. Eventos como pasarelas, ferias, ruedas de negocios y lanzamientos facilitan la conexión entre los productos y sus públicos objetivo, favoreciendo la visibilidad de las marcas y la generación de oportunidades comerciales. Analizar esta relación permite seleccionar los escenarios más adecuados para presentar productos, fortalecer estrategias de comunicación y responder de manera efectiva a las necesidades del mercado.
         .col-6.col-sm-4.col-lg-2
           figure
@@ -236,7 +236,7 @@
 
     .p-4.py-4.py-lg-0.bg-secundario-s5.rounded-4.z-2.mb-5
       .row.align-items-center.z-2.justify-content-center
-        .col-lg-10
+        .col-lg-10.p-3.p-xl-0
           p.mb-4.mb-lg-0 La relación entre tipo de evento, producto y mercado permite comprender cómo las diferentes actividades del sistema moda se orientan a objetivos específicos de promoción, posicionamiento y comercialización. Eventos como pasarelas, ferias, ruedas de negocios y lanzamientos facilitan la conexión entre los productos y sus públicos objetivo, favoreciendo la visibilidad de las marcas y la generación de oportunidades comerciales. Analizar esta relación permite seleccionar los escenarios más adecuados para presentar productos, fortalecer estrategias de comunicación y responder de manera efectiva a las necesidades del mercado.
         .col-6.col-sm-4.col-lg-2
           figure
@@ -384,7 +384,7 @@
           p.mb-0 La producción de eventos de moda corresponde al proceso de planear, organizar, ejecutar y evaluar una acción de visualización de producto. Involucra decisiones creativas, técnicas, logísticas, comunicativas y comerciales que deben integrarse desde la fase inicial. Un evento bien producido no depende únicamente de la puesta en escena, sino de la coherencia entre objetivo, colección, consumidor, canal, recursos y resultados esperados.
 
     .p-4.bg-secundario-s5.rounded-4.z-2.mb-5
-      p.mb-0 En el sistema moda, la producción debe articular concepto, marca, consumidor, universo de vestuario, ocasión de uso y línea de mercado. Esta articulación permite que el evento no sea una actividad aislada, sino una herramienta que fortalece la estrategia de marketing digital, la generación de contenidos, la comercialización y la relación con públicos específicos.
+      p.mb-0 En el sistema moda, la producción debe articular concepto, marca, consumidor, universo de vestuario, ocasión de uso y línea de mercado. Esta articulación permite que el evento no sea una actividad aislada, sino una herramienta que fortalece la estrategia de #[em marketing] digital, la generación de contenidos, la comercialización y la relación con públicos específicos.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -443,7 +443,7 @@
 
     .p-4.py-4.py-lg-0.bg-secundario-s5.rounded-4.z-2.mb-5
       .row.align-items-center.z-2.justify-content-center
-        .col-lg-10
+        .col-lg-10.p-3.p-xl-0
           p.mb-4.mb-lg-0 La producción de un evento de moda requiere la participación coordinada de diferentes profesionales que contribuyen a su planificación, organización y ejecución. Entre los roles más frecuentes se encuentran la dirección y coordinación del evento, la producción, la logística, la comunicación, el protocolo, la dirección creativa, el estilismo, la fotografía y los servicios técnicos. La articulación de estas funciones permite desarrollar experiencias coherentes con los objetivos del evento, las necesidades de las marcas y las expectativas del público.
         .col-6.col-sm-4.col-lg-2
           figure
@@ -459,7 +459,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Coordina presupuesto, cronograma, proveedores, permisos y ejecución integral.
-                p.mb-0 #[strong Relación con el producto de moda]: garantiza que la visualización del producto ocurra en condiciones técnicas adecuadas.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: garantiza que la visualización del producto ocurra en condiciones técnicas adecuadas.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/31.png", alt="")   
@@ -467,7 +467,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Define concepto, narrativa, atmósfera, lenguaje visual y coherencia estética.
-                p.mb-0 #[strong Relación con el producto de moda]: asegura que colección, styling, puesta en escena y comunicación respondan a la marca.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: asegura que colección, styling, puesta en escena y comunicación respondan a la marca.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/32.png", alt="")
@@ -475,7 +475,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Organiza looks, combinaciones, accesorios, calzado, fitting y orden de presentación.
-                p.mb-0 #[strong Relación con el producto de moda]: traduce el producto en propuestas visuales pertinentes para el consumidor.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: traduce el producto en propuestas visuales pertinentes para el consumidor.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/33.png", alt="")
@@ -483,7 +483,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Gestiona convocatoria, prensa, redes sociales, piezas gráficas, contenido y cobertura.
-                p.mb-0 #[strong Relación con el producto de moda]: convierte el evento en visibilidad, recordación, conversación y alcance digital.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: convierte el evento en visibilidad, recordación, conversación y alcance digital.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/34.png", alt="")
@@ -495,7 +495,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Registra fotografía, video, reels, streaming, backstage y material de campaña.
-                p.mb-0 #[strong Relación con el producto de moda]: produce contenidos para canales digitales y memoria del evento.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: produce contenidos para canales digitales y memoria del evento.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/35.png", alt="")   
@@ -503,7 +503,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Atiende compradores, clientes, pedidos, bases de datos, ventas y seguimiento.
-                p.mb-0 #[strong Relación con el producto de moda]: convierte la visualización en oportunidades de negocio.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: convierte la visualización en oportunidades de negocio.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/36.png", alt="")
@@ -511,7 +511,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Coordina montaje, circulación, tiempos, acceso, seguridad, transporte y recursos técnicos.
-                p.mb-0 #[strong Relación con el producto de moda]: evita fallas que afecten la presentación del producto y la experiencia del público.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: evita fallas que afecten la presentación del producto y la experiencia del público.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/37.png", alt="")
@@ -521,7 +521,7 @@
 
     .p-4.py-4.py-lg-0.bg-primario-p10.rounded-4.z-2.mb-5
       .row.align-items-center.z-2.justify-content-center
-        .col-lg-10
+        .col-lg-10.p-3.p-xl-0 
           p.mb-4.mb-lg-0 El checklist técnico para visualizar productos en eventos de moda es una herramienta que permite verificar los aspectos esenciales para la adecuada presentación de prendas, accesorios y colecciones. Incluye elementos relacionados con la exhibición, iluminación, montaje, comunicación visual, logística y experiencia del público, contribuyendo a que los productos sean percibidos de manera coherente con los objetivos de la marca y las características del evento.
         .col-6.col-sm-4.col-lg-2
           figure
@@ -585,23 +585,26 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span Observatorio de tendencias y análisis visual de referentes
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/43.svg", alt="")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/42.svg", alt="")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema2/43.svg", alt="La figura detalla un esquema piramidal de las gamas de mercado y la visualización de producto. Organiza los niveles desde la moda masiva y comercial hasta el prêt-à-porter, diseño de autor, lujo y alta costura, relacionando cada categoría con distintos grados de exclusividad, producción, acceso y propuesta de valor.")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema2/42.svg", alt="La figura detalla un esquema piramidal de las gamas de mercado y la visualización de producto. Organiza los niveles desde la moda masiva y comercial hasta el prêt-à-porter, diseño de autor, lujo y alta costura, relacionando cada categoría con distintos grados de exclusividad, producción, acceso y propuesta de valor.")
         figcaption Nota. SENA, (2026).
 
     separador
     
     #t_2_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.6 Evaluación del evento desde marketing digital
+      h2 2.6 Evaluación del evento desde #[em marketing] digital
 
     img(data-aos="fade-up")(src="@/assets/curso/tema2/44.png", alt="")
     
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 La evaluación del evento permite determinar si la acción cumplió los objetivos propuestos. En marketing digital, esta evaluación no se limita a contar asistentes; también considera alcance, interacción, contenidos generados, tráfico web, consultas, ventas, contactos comerciales, crecimiento de comunidad, percepción de marca y oportunidades de mejora.
+          p.mb-0 La evaluación del evento permite determinar si la acción cumplió los objetivos propuestos. En #[em marketing] digital, esta evaluación no se limita a contar asistentes; también considera alcance, interacción, contenidos generados, tráfico web, consultas, ventas, contactos comerciales, crecimiento de comunidad, percepción de marca y oportunidades de mejora.
 
-    p.mb-4 Indicadores para evaluar eventos de moda desde marketing digital
+    .bg-secundario-s10.p-4.rounded-4.z-2.mb-4
+      p.mb-0 Para que la evaluación sea útil, los indicadores deben definirse antes del evento. De esta manera, el equipo puede decidir qué datos necesita recopilar, qué herramientas usará, quién será responsable del seguimiento y cómo se interpretarán los resultados para la siguiente acción de comunicación o comercialización. 
+
+    p.mb-4 Indicadores para evaluar eventos de moda desde #[em marketing] digital
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-8.mb-4.mb-lg-0
@@ -633,11 +636,11 @@
     
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7.bg-audio.rounded-4.mb-4.mb-lg-0
-        .row.align-items-center
-          .col-sm-5
+        .row.align-items-center.justify-content-center
+          .col-8.col-sm-5
             figure.pt-3
-              img.img-415(src="@/assets/curso/common/mic.png", alt="alt")
-          .col-sm-7.col-lg-7
+              img.img-415.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
+          .col-sm-7.col-lg-7.p-3.p-xl-0
             h5 ¿Sabías qué?
             p Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
@@ -650,7 +653,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/46.png", alt="")
 
     .p-4.bg-primario-p10.rounded-4.z-2.mb-4
-      p.mb-0 La gestión de eventos de moda exige conectar producto, visualización, canal digital, experiencia de marca y evaluación. Un evento pertinente no se limita a exhibir prendas o accesorios; construye una narrativa, activa públicos, genera contenidos, permite medir resultados y aporta información para ajustar futuras acciones de marketing digital dentro del sistema moda.
+      p.mb-0 La gestión de eventos de moda exige conectar producto, visualización, canal digital, experiencia de marca y evaluación. Un evento pertinente no se limita a exhibir prendas o accesorios; construye una narrativa, activa públicos, genera contenidos, permite medir resultados y aporta información para ajustar futuras acciones de #[em marketing] digital dentro del sistema moda.
 
 
 
