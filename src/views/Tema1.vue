@@ -18,7 +18,7 @@
           p.mb-0 El consumo de moda se comprende a partir de la forma en que las personas eligen, adquieren, usan, combinan, conservan o descartan productos asociados al vestir. Esta decisión puede estar motivada por funcionalidad, precio, identificación simbólica, pertenencia social, búsqueda de novedad, comodidad, estatus, sostenibilidad o conexión emocional con una marca. Por esta razón, el análisis de tendencias exige interpretar tanto el producto como el contexto que lo vuelve pertinente para un grupo de consumidores.
   
     .p-4.bg-acento-contenido-a5.rounded-4.z-2.mb-4
-      p.mb-0 El consumo de moda se comprende a partir de la forma en que las personas eligen, adquieren, usan, combinan, conservan o descartan productos asociados al vestir. Esta decisión puede estar motivada por funcionalidad, precio, identificación simbólica, perteneEn este componente formativo los universos de vestuario y las ocasiones de uso funcionan como categorías técnicas para organizar el producto. Los universos agrupan prendas y complementos según función, estilo, contexto y características de uso; las ocasiones permiten precisar el momento, actividad o escenario en que se utiliza el producto. La relación entre tendencia, universo y ocasión favorece propuestas coherentes con el mercado y con las necesidades reales del usuario.ncia social, búsqueda de novedad, comodidad, estatus, sostenibilidad o conexión emocional con una marca. Por esta razón, el análisis de tendencias exige interpretar tanto el producto como el contexto que lo vuelve pertinente para un grupo de consumidores.
+      p.mb-0 En este componente formativo los universos de vestuario y las ocasiones de uso funcionan como categorías técnicas para organizar el producto. Los universos agrupan prendas y complementos según función, estilo, contexto y características de uso; las ocasiones permiten precisar el momento, actividad o escenario en que se utiliza el producto. La relación entre tendencia, universo y ocasión favorece propuestas coherentes con el mercado y con las necesidades reales del usuario.
 
     .p-4.py-4.py-lg-0.bg-secundario-s10.rounded-4.z-2.mb-4
       .row.align-items-center.z-2.justify-content-center
@@ -28,6 +28,8 @@
         .col-sm-4.col-lg-2
           figure
             img.img-160(src="@/assets/curso/tema1/2.png", alt="" data-aos="zoom-in-down")
+
+    p.mb-4 La relación entre tendencia, consumo y producto de moda permite comprender cómo los cambios en los gustos, necesidades y comportamientos de los consumidores influyen en el desarrollo de productos y colecciones. Las tendencias orientan la creación de propuestas de moda, mientras que el consumo refleja su aceptación en el mercado. Esta interacción facilita la identificación de oportunidades y la adaptación de la oferta a las dinámicas del sector. 
       
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -50,7 +52,7 @@
               .col-sm-10
                 h5.mb-4 Universo de vestuario
                 p.mb-0 Categoría que agrupa productos según función, estilo, contexto de uso y características comunes.
-                p #[strong Aplicación en el sistema moda]: facilita clasificar prendas en gala, formal, casual, jeanswear, sportswear, activewear, beachwear, entre otros.
+                p #[strong Aplicación en el sistema moda]: facilita clasificar prendas en gala, formal, casual, #[em jeanswear, sportswear, activewear, beachwear], entre otros.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Ocasión de uso
@@ -133,7 +135,7 @@
       .col-lg-8
         p Las teorías de difusión de tendencias explican cómo una idea, estilo, producto o comportamiento se desplaza entre grupos sociales hasta alcanzar mayor presencia en el mercado. En moda, esta difusión puede originarse en sectores de alta influencia, en grupos urbanos, en comunidades digitales, en pasarelas, en medios especializados o en consumidores que adoptan tempranamente nuevas propuestas.
         .p-4.rounded-4.bg-secundario-s5
-          p.mb-0 Comprender estas teorías permite analizar por qué algunos productos se masifican, por qué ciertos estilos se mantienen en nichos específicos y por qué algunas propuestas desaparecen rápidamente. Para el diseño y el marketing digital, esta lectura es fundamental porque ayuda a decidir cuándo lanzar un producto, cómo comunicarlo, qué validadores usar y qué canales resultan más adecuados para activar el consumo.
+          p.mb-0 Comprender estas teorías permite analizar por qué algunos productos se masifican, por qué ciertos estilos se mantienen en nichos específicos y por qué algunas propuestas desaparecen rápidamente. Para el diseño y el #[em marketing] digital, esta lectura es fundamental porque ayuda a decidir cuándo lanzar un producto, cómo comunicarlo, qué validadores usar y qué canales resultan más adecuados para activar el consumo.
         
     .row.justify-content-center
       .col-xl-10
@@ -161,7 +163,7 @@
               tr
                 td #[em Trickle up] o transmisión vertical ascendente
                 td La tendencia nace en grupos populares, subculturas, comunidades urbanas o prácticas cotidianas y luego es apropiada por marcas de mayor posicionamiento.
-                td Elementos del #[em streetwear], el denim intervenido o estéticas juveniles llegan a pasarelas y colecciones de lujo.
+                td Elementos del #[em streetwear], el #[em denim] intervenido o estéticas juveniles llegan a pasarelas y colecciones de lujo.
               tr(style="background-color: #EAECEE")
                 td Difusión de innovaciones        
                 td Los consumidores adoptan una novedad en distintos momentos, desde innovadores hasta usuarios rezagados.
@@ -197,8 +199,9 @@
       .col-lg-8
         p Las tendencias pueden clasificarse según su alcance, duración, profundidad e impacto en el comportamiento del consumidor. Esta clasificación permite diferenciar cambios estructurales de largo plazo, movimientos de mediano alcance y variaciones de corta duración asociadas con temporadas, redes sociales, celebridades, campañas o novedades de producto.
         .p-4.rounded-4.bg-primario-p10
-          p En moda, la clasificación de tendencias debe relacionarse con el universo de vestuario y la ocasión de uso. Una misma tendencia puede expresarse de manera distinta en una prenda formal, en un producto sportswear, en un accesorio artesanal o en una colección comercial. Por ello, el análisis no se limita a nombrar una tendencia, sino a determinar cómo se adapta a una categoría de producto y a un consumidor específico.
-          p.mb-0 Clasificación de tendencias de moda
+          p En moda, la clasificación de tendencias debe relacionarse con el universo de vestuario y la ocasión de uso. Una misma tendencia puede expresarse de manera distinta en una prenda formal, en un producto #[em sportswear], en un accesorio artesanal o en una colección comercial. Por ello, el análisis no se limita a nombrar una tendencia, sino a determinar cómo se adapta a una categoría de producto y a un consumidor específico.
+          
+    p.mb-4 Clasificación de tendencias de moda
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-8
@@ -212,7 +215,7 @@
           div(titulo="Tendencia de temporada")
             p.mb-0 Propuesta relacionada con calendarios comerciales, clima, campañas o ciclos de compra. Aplicación en productos del sistema moda: colecciones primavera-verano, otoño-invierno, regreso a actividades, vacaciones o fin de año.
           div(titulo="Tendencia de nicho")
-            p.mb-0 Manifestación adoptada por grupos específicos, comunidades, subculturas o consumidores especializados. Aplicación en productos del sistema moda: streetwear, moda genderless, ropa técnica, moda artesanal de autor o productos para comunidades concretas.
+            p.mb-0 Manifestación adoptada por grupos específicos, comunidades, subculturas o consumidores especializados. Aplicación en productos del sistema moda: #[em streetwear], moda #[em genderless], ropa técnica, moda artesanal de autor o productos para comunidades concretas.
           div(titulo="Tendencia comercial")
             p.mb-0 Propuesta con alta capacidad de rotación, adaptación y venta en mercados amplios.
             p.mb-0 Aplicación en productos del sistema moda: prendas de fácil combinación, precio competitivo, comunicación clara y disponibilidad en diferentes canales.
@@ -258,15 +261,15 @@
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 Redes sociales
-              p Viralidad, conversación, interacción, hashtags, referentes e influenciadores.
+              p Viralidad, conversación, interacción, #[em hashtags], referentes e influenciadores.
               p.mb-4.mb-lg-0 #[strong Uso dentro del #[em marketing] digital]: analizar alcance, engagement, percepción y velocidad de circulación de estilos.
             .col-sm-8.col-lg-4
               figure
                 img(src='@/assets/curso/tema1/30.png', alt='')
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
-              h4.mb-4 Retail y vitrinas
-              p Oferta disponible, precios, surtido, combinaciones, visual merchandising y rotación.
+              h4.mb-4 #[em Retail] y vitrinas
+              p Oferta disponible, precios, surtido, combinaciones, visual #[em merchandising] y rotación.
               p.mb-4.mb-lg-0 #[strong Uso dentro del #[em marketing] digital]: reconocer comportamiento comercial y estrategias de presentación del producto.
             .col-sm-8.col-lg-4
               figure
@@ -293,8 +296,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Figura 2.Observatorio de tendencias y análisis visual de referentes
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-mob.png", alt="La figura describe el proceso del observatorio de tendencias, el cual esta compuesto por la  captación de información, registro de hallazgos, análisis de patrones y aplicación de resultados para la creación, comunicación y desarrollo de productos de moda")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/18.png", alt="La figura describe el proceso del observatorio de tendencias, el cual esta compuesto por la  captación de información, registro de hallazgos, análisis de patrones y aplicación de resultados para la creación, comunicación y desarrollo de productos de moda")
+        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/18-mob.png", alt="La figura describe el proceso del observatorio de tendencias, el cual está compuesto por la captación de información, registro de hallazgos, análisis de patrones y aplicación de resultados para la creación, comunicación y desarrollo de productos de moda")
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/18.png", alt="La figura describe el proceso del observatorio de tendencias, el cual está compuesto por la captación de información, registro de hallazgos, análisis de patrones y aplicación de resultados para la creación, comunicación y desarrollo de productos de moda")
         figcaption Nota. SENA, (2026).
 
     separador
@@ -307,7 +310,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Los difusores de tendencias son actores, espacios, medios o herramientas que hacen visible una propuesta y favorecen su adopción por parte del mercado. En moda, estos difusores pueden ser diseñadores, marcas, pasarelas, ferias, observatorios de tendencias, coolhunters, medios especializados, influenciadores, celebridades, vitrinas comerciales, consumidores líderes y plataformas digitales.
+          p.mb-0 Los difusores de tendencias son actores, espacios, medios o herramientas que hacen visible una propuesta y favorecen su adopción por parte del mercado. En moda, estos difusores pueden ser diseñadores, marcas, pasarelas, ferias, observatorios de tendencias, #[em coolhunters], medios especializados, influenciadores, celebridades, vitrinas comerciales, consumidores líderes y plataformas digitales.
 
     .p-3.px-5.rounded-4.bg-secundario-s10.mb-4
       p.mb-0.text-center La difusión se intensifica cuando existe coherencia entre producto, mensaje, canal y público objetivo. Una tendencia puede tener origen en un nicho creativo, pero necesita circulación para convertirse en referente de consumo. Por ello, las marcas deben observar cómo se mueve la información, qué actores la validan y qué formatos permiten traducirla en deseo de compra.
@@ -333,19 +336,19 @@
               tr(style="background-color: #EAECEE")
                 td Observatorios de tendencias
                 td Recolectan, analizan y proyectan información sobre consumidores, estilos de vida y cambios del mercado.
-                td Aportan insumos para brief de diseño, planeación de colecciones y segmentación de contenidos.
+                td Aportan insumos para #[em brief] de diseño, planeación de colecciones y segmentación de contenidos.
               tr
-                td Coolhunters
+                td #[em Coolhunters]
                 td Identifican señales emergentes en la calle, comunidades, cultura digital, música, arte o consumo.
                 td Permiten anticipar oportunidades de producto, narrativas de marca y activaciones.
               tr(style="background-color: #EAECEE")
                 td Influenciadores y líderes de opinión
                 td Aceleran la visibilidad de productos mediante credibilidad, alcance y relación con comunidades.
-                td Apoyan lanzamientos, styling, reseñas, transmisiones en vivo, colaboraciones y campañas.
+                td Apoyan lanzamientos, #[em styling], reseñas, transmisiones en vivo, colaboraciones y campañas.
               tr
-                td Retail y vitrinas
+                td #[em Retail] y vitrinas
                 td Muestran tendencias en productos listos para compra y facilitan su apropiación por el consumidor.
-                td Conectan visual merchandising, comercio electrónico, catálogo y experiencia de compra.
+                td Conectan visual #[em merchandising], comercio electrónico, catálogo y experiencia de compra.
               tr(style="background-color: #EAECEE")
                 td Consumidores líderes
                 td Adoptan y reinterpretan productos de forma visible para su entorno social o digital.
@@ -363,7 +366,7 @@
       .col-lg-8
         p Los universos de vestuario son categorías que permiten agrupar productos de moda según su función, contexto de uso, estilo, materialidad, nivel de formalidad y relación con el consumidor. Esta clasificación favorece la organización del portafolio de producto, la lectura de líneas de mercado y la definición de estrategias de comunicación, ya que no todos los productos responden a las mismas condiciones técnicas ni a las mismas expectativas de uso.
         .p-4.rounded-4.bg-primario-p10
-          p.mb-0 En el sistema moda, los universos de vestuario ayudan a traducir una tendencia en producto. Una tendencia de sostenibilidad, por ejemplo, puede expresarse en prendas formales mediante materiales nobles y acabados durables; en activewear, mediante textiles de desempeño reciclados; o en beachwear, mediante fibras de secado rápido y comunicación asociada al cuidado del entorno. Por ello, el universo define el marco técnico y simbólico donde la tendencia se materializa.
+          p.mb-0 En el sistema moda, los universos de vestuario ayudan a traducir una tendencia en producto. Una tendencia de sostenibilidad, por ejemplo, puede expresarse en prendas formales mediante materiales nobles y acabados durables; en #[em activewear], mediante textiles de desempeño reciclados; o en #[em beachwear], mediante fibras de secado rápido y comunicación asociada al cuidado del entorno. Por ello, el universo define el marco técnico y simbólico donde la tendencia se materializa.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -432,8 +435,8 @@
                 img(src='@/assets/curso/tema1/33.svg' alt='')
             .factores-slider__title-wrapper  
               h5.factores-slider__title.mb-3 #[em Jeanswear]
-            p.mb-0.text-center Universo centrado en denim, mezclilla, prendas resistentes y códigos juveniles o urbanos.
-            p.mb-4.text-center #[strong Relación con tendencias y consumo]: facilita reinterpretar tendencias mediante lavados, siluetas, intervenciones, acabados y styling.
+            p.mb-0.text-center Universo centrado en #[em denim], mezclilla, prendas resistentes y códigos juveniles o urbanos.
+            p.mb-4.text-center #[strong Relación con tendencias y consumo]: facilita reinterpretar tendencias mediante lavados, siluetas, intervenciones, acabados y #[em styling].
           .tarjeta.tarjeta--blanca.px-3.pt-3.factores-slider__tarjeta
             .row.justify-content-center.mb-2
               .col-5
@@ -466,6 +469,22 @@
               h5.factores-slider__title.mb-3 #[em Swimwear y beachwear]
             p.mb-0.text-center Vestuario para playa, piscina, recreación y actividades al aire libre.
             p.mb-4.text-center #[strong Relación con tendencias y consumo]: relaciona tendencia con color, estampado, secado, protección, ligereza y complementos.
+          .tarjeta.tarjeta--blanca.px-3.pt-3.factores-slider__tarjeta
+            .row.justify-content-center.mb-2
+              .col-5
+                img(src='@/assets/curso/tema1/33.svg' alt='')
+            .factores-slider__title-wrapper  
+              h5.factores-slider__title.mb-3 #[em Sleepwear]
+            p.mb-0.text-center Ropa destinada al descanso y al dormir, con prioridad en comodidad, suavidad y ajuste relajado.
+            p.mb-4.text-center #[strong Relación con tendencias y consumo]: vincula tendencia con bienestar, textiles suaves, siluetas cómodas y estética íntima.
+          .tarjeta.tarjeta--blanca.px-3.pt-3.factores-slider__tarjeta
+            .row.justify-content-center.mb-2
+              .col-5
+                img(src='@/assets/curso/tema1/33.svg' alt='')
+            .factores-slider__title-wrapper  
+              h5.factores-slider__title.mb-3 #[em Underwear]
+            p.mb-0.text-center Prendas interiores en contacto directo con el cuerpo, orientadas a ajuste, confort, soporte y funcionalidad.
+            p.mb-4.text-center #[strong Relación con tendencias y consumo]: requiere interpretar tendencias desde ergonomía, materiales, elasticidad, tacto y discreción.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -503,7 +522,7 @@
                 td Diseñar referencias combinables, cómodas y de alta rotación con detalles de temporada 
               tr
                 td #[em Jeanswear] 
-                td Denim intervenido o reciclado 
+                td #[em Denim] intervenido o reciclado 
                 td Definir lavados, procesos de acabado, resistencia, composición y narrativa sostenible 
               tr(style="background-color: #EAECEE")
                 td #[em Sportswear] 
@@ -530,7 +549,7 @@
       .col-lg-8
         p Las ocasiones de uso corresponden a los escenarios, actividades o momentos en los que una persona utiliza una prenda o accesorio. Esta categoría permite segmentar el producto con mayor precisión, porque una misma prenda puede cambiar de sentido según el lugar, la actividad, el grado de formalidad, el clima, el tiempo de uso, la interacción social y las expectativas del consumidor.
         .p-4.rounded-4.bg-secundario-s5
-          p.mb-0 En el desarrollo de productos de moda, la ocasión de uso orienta decisiones de material, silueta, resistencia, comodidad, acabados, color, sistema de cierre, empaque, comunicación y precio. También permite relacionar el producto con campañas digitales, fotografías, styling, textos comerciales, vitrinas y eventos de visualización.
+          p.mb-0 En el desarrollo de productos de moda, la ocasión de uso orienta decisiones de material, silueta, resistencia, comodidad, acabados, color, sistema de cierre, empaque, comunicación y precio. También permite relacionar el producto con campañas digitales, fotografías, #[em styling], textos comerciales, vitrinas y eventos de visualización.
 
     .row.justify-content-center
       .col-xl-10
@@ -560,7 +579,7 @@
                 td Priorizar comodidad, movilidad, resistencia, funcionalidad, tallaje y rotación comercial
               tr(style="background-color: #EAECEE")
                 td Recreativa
-                td #[em Swimwear, beachwear, sportswear y casual]
+                td #[em Swimwear, beachwear, sportswear] y casual
                 td Considerar clima, exposición al agua o sol, ligereza, transporte, color y accesorios
               tr
                 td Descanso
@@ -581,7 +600,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 La ocasión de uso no opera de manera aislada; debe relacionarse con el perfil del consumidor y con la línea de mercado. Un producto para una ocasión protocolaria puede ubicarse en alta costura, lujo, diseño de autor o moda comercial, pero cada nivel exigirá diferencias en materiales, personalización, precio, comunicación y experiencia de compra. De igual forma, una prenda informal puede proyectarse como producto masivo, slow fashion, cápsula o pieza de marca, según la estrategia definida.
+          p.mb-0 La ocasión de uso no opera de manera aislada; debe relacionarse con el perfil del consumidor y con la línea de mercado. Un producto para una ocasión protocolaria puede ubicarse en alta costura, lujo, diseño de autor o moda comercial, pero cada nivel exigirá diferencias en materiales, personalización, precio, comunicación y experiencia de compra. De igual forma, una prenda informal puede proyectarse como producto masivo, #[em slow fashion], cápsula o pieza de marca, según la estrategia definida.
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 5.
@@ -599,27 +618,27 @@
           tr
             td Sostenibilidad y trazabilidad
             td Multiocasión o informal
-            td Diseño de autor, moda comercial o slow fashion
+            td Diseño de autor, moda comercial o #[em slow fashion]
             td Comunicar origen del material, proceso productivo y durabilidad mediante piezas digitales.
           tr(style="background-color: #EAECEE")
             td Sastrería relajada
             td Protocolaria o multiocasión
-            td Lujo, prêt-à-porter o moda comercial
-            td Presentar looks en pasarela, editorial o showroom con styling contemporáneo.
+            td Lujo, #[em prêt-à-porter] o moda comercial
+            td Presentar #[em looks] en pasarela, editorial o #[em showroom] con #[em styling] contemporáneo.
           tr
-            td Denim intervenido
+            td #[em Denim] intervenido
             td Informal
-            td Jeanswear, moda comercial o cápsula de marca
-            td Activar contenidos de proceso, antes/después, reels y lanzamiento por drop.
+            td #[em Jeanswear], moda comercial o cápsula de marca
+            td Activar contenidos de proceso, antes/después, #[em reels] y lanzamiento por #[em drop].
           tr(style="background-color: #EAECEE")
-            td Activewear urbano
+            td #[em Activewear] urbano
             td Informal, recreativa o deportiva
-            td Moda comercial, sportswear o marca especializada
+            td Moda comercial, #[em sportswear] o marca especializada
             td Visualizar desempeño, movilidad y uso cotidiano en campaña digital.
           tr
             td Comodidad en casa
             td Descanso
-            td Leisurewear o sleepwear
+            td #[em Leisurewear] o #[em sleepwear]
             td Construir experiencia de bienestar, fotografía natural y comunicación emocional.
 
     .p-4.bg-secundario-s5.rounded-4.z-2.mb-4
@@ -646,11 +665,10 @@
             figure.pt-3
               img.img-415.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
           .col-sm-7.col-lg-7.p-3.p-xl-0
-            h5 ¿Sabías qué?
             p Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
-              texto="“Charlas que venden” tema: “La idea de negocio como base del desarrollo empresarial”"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="“Charlas que venden” tema: “Más allá de la prenda, tendencias y decisiones en el sistema de moda”"
+              :audio="require('@/assets/curso/podcast/mas-alla-de-la-prenda-tendencias-y-decisiones-en-el-sistema-de-moda.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-10.col-sm-10.col-lg-5

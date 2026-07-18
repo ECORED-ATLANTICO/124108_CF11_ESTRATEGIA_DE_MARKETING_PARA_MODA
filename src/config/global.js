@@ -155,7 +155,7 @@ export default {
         'Acción comunicativa y experiencial orientada a generar recordación, interacción o respuesta comercial frente a una marca o producto.',
     },
     {
-      termino: 'Coolhunter',
+      termino: '<em>Coolhunter</em>',
       significado:
         'Persona o equipo que observa señales emergentes en la calle, medios, cultura digital y consumo para identificar posibles tendencias de moda.',
     },
@@ -207,7 +207,7 @@ export default {
     {
       termino: 'Pasarela',
       significado:
-        'Formato de presentación de moda en el que los productos se exhiben en movimiento mediante modelos, styling y puesta en escena.',
+        'Formato de presentación de moda en el que los productos se exhiben en movimiento mediante modelos, <em>styling</em> y puesta en escena.',
     },
     {
       termino: '<em>Pop-up store</em>',

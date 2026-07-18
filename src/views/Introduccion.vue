@@ -29,7 +29,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/intro/2.png", alt="tendencias de moda y eventos")
     
     .p-4.bg-secundario-s5.rounded-4.mb-3
-      p.mb-0 De igual manera, se estudian los eventos de moda como escenarios de visualización, posicionamiento, relacionamiento y comercialización. Estos espacios permiten presentar colecciones, activar campañas, generar experiencias de marca, fortalecer relaciones con compradores y comunicar narrativas de producto mediante recursos presenciales, digitales o híbridos. En este sentido, el componente aporta bases para interpretar tendencias y planear eventos con criterios técnicos, comunicativos y comerciales acordes con el marketing digital aplicado al sistema moda.
+      p.mb-0 De igual manera, se estudian los eventos de moda como escenarios de visualización, posicionamiento, relacionamiento y comercialización. Estos espacios permiten presentar colecciones, activar campañas, generar experiencias de marca, fortalecer relaciones con compradores y comunicar narrativas de producto mediante recursos presenciales, digitales o híbridos. En este sentido, el componente aporta bases para interpretar tendencias y planear eventos con criterios técnicos, comunicativos y comerciales acordes con el #[em marketing] digital aplicado al sistema moda.
 </template>
 
 <script>

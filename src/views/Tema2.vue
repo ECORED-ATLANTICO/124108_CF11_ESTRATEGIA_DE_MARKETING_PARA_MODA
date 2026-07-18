@@ -37,7 +37,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/3.png", alt="" data-aos="zoom-in-down")
       .col-lg-7
         .p-4.bg-acento-botones-a5.rounded-4.z-2
-          p.mb-0.pe-2 Los eventos de moda se consolidaron históricamente a partir de la necesidad de mostrar las colecciones en movimiento, permitir que los productos fueran apreciados sobre el cuerpo y generar espacios de relación entre diseñadores, compradores, prensa y consumidores. Los desfiles privados, las semanas de la moda, las ferias, los showrooms y los encuentros sectoriales ampliaron el papel del evento como dispositivo de comunicación y comercialización. En la actualidad, los eventos de moda se integran a estrategias digitales. Un lanzamiento puede iniciar con expectativa en redes sociales, transmitirse por streaming, generar piezas audiovisuales, activar códigos de compra, vincular influenciadores y producir métricas posteriores. Esto demuestra que el evento ya no se limita al momento presencial, sino que se extiende antes, durante y después mediante contenidos, comunidad y analítica.
+          p.mb-0.pe-2 Los eventos de moda se consolidaron históricamente a partir de la necesidad de mostrar las colecciones en movimiento, permitir que los productos fueran apreciados sobre el cuerpo y generar espacios de relación entre diseñadores, compradores, prensa y consumidores. Los desfiles privados, las semanas de la moda, las ferias, los #[em showrooms] y los encuentros sectoriales ampliaron el papel del evento como dispositivo de comunicación y comercialización. En la actualidad, los eventos de moda se integran a estrategias digitales. Un lanzamiento puede iniciar con expectativa en redes sociales, transmitirse por #[em streaming], generar piezas audiovisuales, activar códigos de compra, vincular influenciadores y producir métricas posteriores. Esto demuestra que el evento ya no se limita al momento presencial, sino que se extiende antes, durante y después mediante contenidos, comunidad y analítica.
 
     div.slider-wrapper.z-2.mb-6
       .bg-fullwidth
@@ -110,7 +110,7 @@
               .col-sm-10
                 h5.mb-4 Visualización de producto
                 p.mb-0 Presentar prendas, accesorios o colecciones de manera organizada y coherente con la marca. 
-                p #[strong Ejemplo de aplicación]: desfile de colección cápsula, showroom de compradores o presentación de temporada.
+                p #[strong Ejemplo de aplicación]: desfile de colección cápsula, #[em showroom] de compradores o presentación de temporada.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Comunicación de marca
@@ -135,7 +135,7 @@
               .col-sm-10
                 h5.mb-4 Validación de mercado
                 p.mb-0 Recoger reacciones, comentarios, pedidos, interacción y comportamiento de los asistentes.
-                p #[strong Ejemplo de aplicación]: encuestas rápidas, métricas de interacción, pedidos de showroom o análisis de conversiones.
+                p #[strong Ejemplo de aplicación]: encuestas rápidas, métricas de interacción, pedidos de #[em showroom] o análisis de conversiones.
 
     .p-4.py-4.py-lg-0.bg-secundario-s5.rounded-4.z-2
       .row.align-items-center.z-2.justify-content-center
@@ -164,7 +164,7 @@
           .row.z-2.justify-content-center.align-items-center
             .col-lg-6
               h4.mb-4 Desfile o pasarela
-              p Presentación de una colección mediante modelos, styling, música, iluminación y puesta en escena.
+              p Presentación de una colección mediante modelos, #[em styling], música, iluminación y puesta en escena.
               p #[strong Uso estratégico]: comunicar concepto, siluetas, temporada, identidad de marca y propuesta estética.
             .col-sm-8.col-lg-4
               figure
@@ -279,7 +279,7 @@
               tr(style="background-color: #EAECEE")
                 td Comunicar innovación
                 td Feria, demostración técnica, presentación digital o evento especializado
-                td Textiles inteligentes, moda sostenible, #[em activewear], #[em sportswear]å o tecnología aplicada
+                td Textiles inteligentes, moda sostenible, #[em activewear], #[em sportswear] o tecnología aplicada
 
     separador
 
@@ -293,7 +293,7 @@
       .col-lg-8
         p La transformación digital del sistema moda ha ampliado los formatos de evento. Un evento físico permite contacto directo con producto, texturas, caída, acabados y experiencia espacial; un evento digital permite mayor alcance, medición, permanencia del contenido y conexión con comercio electrónico; un evento híbrido integra ambas posibilidades para ampliar la participación y mejorar la comunicación de la marca.
         .p-4.bg-secundario-s5.rounded-4.z-2.mb-4
-          p.mb-0 La decisión entre formato físico, digital o híbrido debe considerar presupuesto, objetivo, público, tipo de producto, alcance esperado, requerimientos técnicos, contenido necesario y capacidad de medición. En productos donde la textura, el ajuste o la materialidad son determinantes, el evento físico o showroom mantiene gran valor. En lanzamientos de alcance amplio o campañas con fuerte presencia en redes, el formato digital puede amplificar la visibilidad del producto.
+          p.mb-0 La decisión entre formato físico, digital o híbrido debe considerar presupuesto, objetivo, público, tipo de producto, alcance esperado, requerimientos técnicos, contenido necesario y capacidad de medición. En productos donde la textura, el ajuste o la materialidad son determinantes, el evento físico o #[em showroom] mantiene gran valor. En lanzamientos de alcance amplio o campañas con fuerte presencia en redes, el formato digital puede amplificar la visibilidad del producto.
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 7.
@@ -315,7 +315,7 @@
             td Lugar, montaje, logística, protocolo, seguridad, iluminación, sonido y producción
           tr(style="background-color: #EAECEE")
             td Digital
-            td Se realiza mediante plataformas, streaming, redes sociales, catálogos o entornos virtuales
+            td Se realiza mediante plataformas, #[em streaming], redes sociales, catálogos o entornos virtuales
             td Mayor alcance, medición de interacción, reducción de barreras geográficas y reutilización de contenido
             td Producción audiovisual, guion, plataforma, pauta, métricas y soporte técnico
           tr
@@ -409,7 +409,7 @@
               .col-sm-10
                 h5.mb-4 Conceptualización
                 p Definir narrativa, estética, tono, universo de vestuario, ocasión de uso y mensaje central.
-                p #[strong Resultado esperado]: concepto rector para orientar producto, styling, espacio, comunicación y experiencia.
+                p #[strong Resultado esperado]: concepto rector para orientar producto, #[em styling], espacio, comunicación y experiencia.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Selección de producto
@@ -423,7 +423,7 @@
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Producción técnica
-                p Coordinar espacio, iluminación, sonido, montaje, modelos, styling, fotografía, video y logística.
+                p Coordinar espacio, iluminación, sonido, montaje, modelos, #[em styling], fotografía, video y logística.
                 p #[strong Resultado esperado]: plan de producción, cronograma, presupuesto y responsables.
             .row.justify-content-center
               .col-sm-10
@@ -467,7 +467,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-7
                 p.mb-0 Define concepto, narrativa, atmósfera, lenguaje visual y coherencia estética.
-                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: asegura que colección, styling, puesta en escena y comunicación respondan a la marca.
+                p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: asegura que colección, #[em styling], puesta en escena y comunicación respondan a la marca.
               .col-sm-10.col-lg-5
                 figure
                   img(src="@/assets/curso/tema2/32.png", alt="")
@@ -494,7 +494,7 @@
           div(titulo="Equipo audiovisual")
             .row.justify-content-center.align-items-center
               .col-lg-7
-                p.mb-0 Registra fotografía, video, reels, streaming, backstage y material de campaña.
+                p.mb-0 Registra fotografía, video, reels, #[em streaming], backstage y material de campaña.
                 p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: produce contenidos para canales digitales y memoria del evento.
               .col-sm-10.col-lg-5
                 figure
@@ -544,7 +544,7 @@
               tr
                 td Producto
                 td Estado de prendas, tallas, planchado, etiquetas, accesorios, calzado y repuestos
-                td Improvisación, daño de piezas, errores de look o presentación incompleta
+                td Improvisación, daño de piezas, errores de #[em look] o presentación incompleta
               tr(style="background-color: #EAECEE")
                 td #[em Fitting]
                 td Ajuste, movilidad, largos, cierres, comodidad, correspondencia entre modelo y producto
@@ -617,7 +617,7 @@
             p.mb-0 #[strong Ejemplo de aplicación]: impresiones, visualizaciones, reproducciones, usuarios alcanzados o cobertura en medios.
           div(titulo="Interacción")
             p.mb-0 Nivel de respuesta del público frente al contenido.
-            p.mb-0 #[strong Ejemplo de aplicación]: comentarios, compartidos, guardados, clics, preguntas, menciones o uso de hashtag.
+            p.mb-0 #[strong Ejemplo de aplicación]: comentarios, compartidos, guardados, clics, preguntas, menciones o uso de #[em hashtag].
           div(titulo="Coversión")
             p.mb-0 Acciones comerciales derivadas del evento.
             Ejemplo de aplicación: ventas, reservas, pedidos, suscripciones, registros, leads o tráfico a tienda
@@ -641,11 +641,10 @@
             figure.pt-3
               img.img-415.mb-4.mb-sm-0(src="@/assets/curso/common/mic.png", alt="alt")
           .col-sm-7.col-lg-7.p-3.p-xl-0
-            h5 ¿Sabías qué?
             p Lo invitamos a escuchar el siguiente pódcast:
             TarjetaAudio.color-white.mb-3(
-              texto="“Charlas que venden” tema: “La idea de negocio como base del desarrollo empresarial”"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              texto="“Charlas que venden” tema: “Más que vestir identidad, creactividad y estrategía en el sistema de moda”"
+              :audio="require('@/assets/curso/podcast/mas-que-vestir-identidad-creatividad-y-estrategia-en-el-sistema-de-moda.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
       .col-10.col-sm-10.col-lg-5
@@ -654,12 +653,6 @@
 
     .p-4.bg-primario-p10.rounded-4.z-2.mb-4
       p.mb-0 La gestión de eventos de moda exige conectar producto, visualización, canal digital, experiencia de marca y evaluación. Un evento pertinente no se limita a exhibir prendas o accesorios; construye una narrativa, activa públicos, genera contenidos, permite medir resultados y aporta información para ajustar futuras acciones de #[em marketing] digital dentro del sistema moda.
-
-
-
-
-
-
 
 
 </template>

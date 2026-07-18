@@ -518,7 +518,7 @@ export default {
         {
           id: 15,
           texto:
-            '¿Qué función estratégica cumple showroom dentro comercialización de productos moda?',
+            '¿Qué función estratégica cumple <em>showroom</em> dentro comercialización de productos moda?',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
