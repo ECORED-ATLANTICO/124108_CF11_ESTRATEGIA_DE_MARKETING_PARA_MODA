@@ -39,6 +39,11 @@
         .p-4.bg-acento-botones-a5.rounded-4.z-2
           p.mb-0.pe-2 Los eventos de moda se consolidaron históricamente a partir de la necesidad de mostrar las colecciones en movimiento, permitir que los productos fueran apreciados sobre el cuerpo y generar espacios de relación entre diseñadores, compradores, prensa y consumidores. Los desfiles privados, las semanas de la moda, las ferias, los #[em showrooms] y los encuentros sectoriales ampliaron el papel del evento como dispositivo de comunicación y comercialización. En la actualidad, los eventos de moda se integran a estrategias digitales. Un lanzamiento puede iniciar con expectativa en redes sociales, transmitirse por #[em streaming], generar piezas audiovisuales, activar códigos de compra, vincular influenciadores y producir métricas posteriores. Esto demuestra que el evento ya no se limita al momento presencial, sino que se extiende antes, durante y después mediante contenidos, comunidad y analítica.
 
+    .titulo-con-imagen.mb-6(data-aos="fade-right")
+      .titulo-con-imagen__fondo
+        img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.png")
+        h4.titulo-con-imagen__texto Evolución de los eventos de moda
+
     div.slider-wrapper.z-2.mb-6
       .bg-fullwidth
       .tarjeta.tarjeta--blanca.position-relative.p-4.pt-5.z-2.my-5
@@ -54,6 +59,7 @@
           .row.justify-content-center(titulo="1920–1930").pt-4
             .col-lg-8
               h5.mb-0 1920–1930
+              p Presentaciones exclusivas
               p.mb-4.mb-lg-0 La moda incorporó eventos más sofisticados y temáticos para exhibir nuevas tendencias a un público especializado.
             .col-sm-6.col-lg-3
               figure
@@ -93,13 +99,13 @@
 
     .p-4.bg-acento-contenido-a5.rounded-4.z-2.mb-5
       p.mb-0 Los eventos de moda desempeñan un papel fundamental en el sistema moda, ya que constituyen espacios para la promoción, comunicación, relacionamiento y comercialización de productos, marcas y colecciones. A través de pasarelas, ferias, ruedas de negocios, lanzamientos y encuentros especializados, facilitan la difusión de tendencias, la presentación de propuestas creativas y la generación de oportunidades comerciales. Además, fortalecen la conexión entre diseñadores, empresas, compradores, medios de comunicación y consumidores, contribuyendo al posicionamiento de marcas y al desarrollo competitivo del sector.
-
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
         img.titulo-con-imagen__imagen(src="@/assets/curso/common/icon-title.png")
         h4.titulo-con-imagen__texto Funciones de los eventos de moda
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+
+    .row.justify-content-center.align-items-center
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/10.png", alt="" data-aos="zoom-in-down")
@@ -125,25 +131,17 @@
               .col-sm-10
                 h5.mb-4 Relacionamiento
                 p.mb-0 Conectar marca con medios, aliados, influenciadores, clientes, proveedores o comunidades.
-                p #[strong Ejemplo de aplicación]: encuentro con prensa, bloggers, estilistas y líderes de opinión.
+                p #[strong Ejemplo de aplicación]: encuentro con prensa, #[em bloggers], estilistas y líderes de opinión.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Generación de contenido
-                p.mb-0 Producir fotografías, videos, reels, transmisiones, notas de prensa y material de campaña.
+                p.mb-0 Producir fotografías, videos, #[em reels], transmisiones, notas de prensa y material de campaña.
                 p #[strong Ejemplo de aplicación]: cobertura de pasarela, backstage, entrevistas y piezas para redes sociales.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Validación de mercado
                 p.mb-0 Recoger reacciones, comentarios, pedidos, interacción y comportamiento de los asistentes.
                 p #[strong Ejemplo de aplicación]: encuestas rápidas, métricas de interacción, pedidos de #[em showroom] o análisis de conversiones.
-
-    .p-4.py-4.py-lg-0.bg-secundario-s5.rounded-4.z-2
-      .row.align-items-center.z-2.justify-content-center
-        .col-lg-10.p-3.p-xl-0
-          p.mb-4.mb-lg-0 La relación entre tipo de evento, producto y mercado permite comprender cómo las diferentes actividades del sistema moda se orientan a objetivos específicos de promoción, posicionamiento y comercialización. Eventos como pasarelas, ferias, ruedas de negocios y lanzamientos facilitan la conexión entre los productos y sus públicos objetivo, favoreciendo la visibilidad de las marcas y la generación de oportunidades comerciales. Analizar esta relación permite seleccionar los escenarios más adecuados para presentar productos, fortalecer estrategias de comunicación y responder de manera efectiva a las necesidades del mercado.
-        .col-6.col-sm-4.col-lg-2
-          figure
-            img(src="@/assets/curso/tema2/11.png", alt="" data-aos="zoom-in-down")
 
     separador
 
@@ -155,7 +153,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text
-          p.mb-0 Los eventos de moda pueden clasificarse según su objetivo, público, formato, duración, nivel de exclusividad y relación con la estrategia comercial. Algunas acciones se orientan a la prensa y los compradores; otras buscan contacto directo con consumidores, activación digital, venta temporal, experiencia de marca o posicionamiento institucional. La selección del tipo de evento debe responder al producto que se desea visualizar y al mercado al que se dirige. Una colección de autor puede requerir un showroom o pasarela conceptual; una marca comercial puede optar por lanzamiento digital, pop-up store o evento con influenciadores; una empresa con enfoque sectorial puede participar en ferias, ruedas de negocio o experiencias híbridas. Entre los eventos de moda más relevantes tenemos:
+          p.mb-0 Los eventos de moda pueden clasificarse según su objetivo, público, formato, duración, nivel de exclusividad y relación con la estrategia comercial. Algunas acciones se orientan a la prensa y los compradores; otras buscan contacto directo con consumidores, activación digital, venta temporal, experiencia de marca o posicionamiento institucional. La selección del tipo de evento debe responder al producto que se desea visualizar y al mercado al que se dirige. Una colección de autor puede requerir un showroom o pasarela conceptual; una marca comercial puede optar por lanzamiento digital, #[em pop-up store] o evento con influenciadores; una empresa con enfoque sectorial puede participar en ferias, ruedas de negocio o experiencias híbridas. Entre los eventos de moda más relevantes tenemos:
 
     div.slider-wrapper.z-2.mb-6.slider-custom-small
       .bg-fullwidth
@@ -259,7 +257,7 @@
               tr
                 td Presentar colección completa
                 td Desfile, pasarela o presentación editorial
-                td Alta costura, lujo, diseño de autor o prêt-à-porter
+                td Alta costura, lujo, diseño de autor o #[em prêt-à-porter]
               tr(style="background-color: #EAECEE")
                 td Negociar con compradores
                 td #[em Showroom], feria o rueda comercial
@@ -275,7 +273,7 @@
               tr
                 td Activar venta temporal
                 td #[em pop-up store], #[em live shopping] o campaña de temporada
-                td Moda comercial, moda rápida, accesorios, drops o productos promocionales
+                td Moda comercial, moda rápida, accesorios, #[em drops] o productos promocionales
               tr(style="background-color: #EAECEE")
                 td Comunicar innovación
                 td Feria, demostración técnica, presentación digital o evento especializado
@@ -414,7 +412,7 @@
               .col-sm-10
                 h5.mb-4 Selección de producto
                 p Elegir prendas, accesorios, calzado o complementos que serán visualizados.
-                p #[strong Resultado esperado]: listado de referencias, tallas, fichas, looks, orden de salida o montaje de exhibición.
+                p #[strong Resultado esperado]: listado de referencias, tallas, fichas, #[em looks], orden de salida o montaje de exhibición.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Planeación de público
@@ -429,7 +427,7 @@
               .col-sm-10
                 h5.mb-4 Comunicación
                 p Diseñar piezas previas, cobertura durante el evento y contenidos posteriores.
-                p #[strong Resultado esperado]: campaña integrada en redes sociales, mailing, prensa, página web y canales comerciales.
+                p #[strong Resultado esperado]: campaña integrada en redes sociales, #[em mailing], prensa, página web y canales comerciales.
             .row.justify-content-center
               .col-sm-10
                 h5.mb-4 Ejecución
@@ -474,7 +472,7 @@
           div(titulo="<em>Stylist</em> o estilista de moda")
             .row.justify-content-center.align-items-center
               .col-lg-7
-                p.mb-0 Organiza looks, combinaciones, accesorios, calzado, fitting y orden de presentación.
+                p.mb-0 Organiza #[em looks], combinaciones, accesorios, calzado, #[em fitting] y orden de presentación.
                 p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: traduce el producto en propuestas visuales pertinentes para el consumidor.
               .col-sm-10.col-lg-5
                 figure
@@ -494,7 +492,7 @@
           div(titulo="Equipo audiovisual")
             .row.justify-content-center.align-items-center
               .col-lg-7
-                p.mb-0 Registra fotografía, video, reels, #[em streaming], backstage y material de campaña.
+                p.mb-0 Registra fotografía, video, #[em reels], #[em streaming], #[em backstage] y material de campaña.
                 p.mb-4.mb-lg-0 #[strong Relación con el producto de moda]: produce contenidos para canales digitales y memoria del evento.
               .col-sm-10.col-lg-5
                 figure
@@ -522,7 +520,7 @@
     .p-4.py-4.py-lg-0.bg-primario-p10.rounded-4.z-2.mb-5
       .row.align-items-center.z-2.justify-content-center
         .col-lg-10.p-3.p-xl-0 
-          p.mb-4.mb-lg-0 El checklist técnico para visualizar productos en eventos de moda es una herramienta que permite verificar los aspectos esenciales para la adecuada presentación de prendas, accesorios y colecciones. Incluye elementos relacionados con la exhibición, iluminación, montaje, comunicación visual, logística y experiencia del público, contribuyendo a que los productos sean percibidos de manera coherente con los objetivos de la marca y las características del evento.
+          p.mb-4.mb-lg-0 El #[em checklist] técnico para visualizar productos en eventos de moda es una herramienta que permite verificar los aspectos esenciales para la adecuada presentación de prendas, accesorios y colecciones. Incluye elementos relacionados con la exhibición, iluminación, montaje, comunicación visual, logística y experiencia del público, contribuyendo a que los productos sean percibidos de manera coherente con los objetivos de la marca y las características del evento.
         .col-6.col-sm-4.col-lg-2
           figure
             img(src="@/assets/curso/tema2/40.png", alt="" data-aos="zoom-in-down")
@@ -620,10 +618,10 @@
             p.mb-0 #[strong Ejemplo de aplicación]: comentarios, compartidos, guardados, clics, preguntas, menciones o uso de #[em hashtag].
           div(titulo="Coversión")
             p.mb-0 Acciones comerciales derivadas del evento.
-            Ejemplo de aplicación: ventas, reservas, pedidos, suscripciones, registros, leads o tráfico a tienda
+            Ejemplo de aplicación: ventas, reservas, pedidos, suscripciones, registros, #[em leads] o tráfico a tienda
           div(titulo="Contenido generado")
             p.mb-0 Material producido por la marca, asistentes o aliados.
-            p.mb-0 #[strong Ejemplo de aplicación]: fotografías, reels, stories, notas de prensa, entrevistas o contenido de influenciadores.
+            p.mb-0 #[strong Ejemplo de aplicación]: fotografías, #[em reels], #[em stories], notas de prensa, entrevistas o contenido de influenciadores.
           div(titulo="Percepción de marca")
             p.mb-0 Comentarios, tono de conversación y valoración del producto.
             p.mb-0 #[strong Ejemplo de aplicación]: análisis cualitativo de reseñas, mensajes, opiniones o cobertura.
@@ -634,6 +632,9 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/45.png", alt="")
     
+    .p-4.bg-primario-p10.rounded-4.z-2.mb-4.mb-lg-5
+      p.mb-0 La gestión de eventos de moda exige conectar producto, visualización, canal digital, experiencia de marca y evaluación. Un evento pertinente no se limita a exhibir prendas o accesorios; construye una narrativa, activa públicos, genera contenidos, permite medir resultados y aporta información para ajustar futuras acciones de #[em marketing] digital dentro del sistema moda.
+
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7.bg-audio.rounded-4.mb-4.mb-lg-0
         .row.align-items-center.justify-content-center
@@ -651,8 +652,6 @@
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema2/46.png", alt="")
 
-    .p-4.bg-primario-p10.rounded-4.z-2.mb-4
-      p.mb-0 La gestión de eventos de moda exige conectar producto, visualización, canal digital, experiencia de marca y evaluación. Un evento pertinente no se limita a exhibir prendas o accesorios; construye una narrativa, activa públicos, genera contenidos, permite medir resultados y aporta información para ajustar futuras acciones de #[em marketing] digital dentro del sistema moda.
 
 
 </template>
